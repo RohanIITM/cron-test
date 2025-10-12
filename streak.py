@@ -1,4 +1,4 @@
-def longest_positive_streak(nums: list[int]) -> int:
+def longest_positive_streak(nums):
     """
     Calculates the length of the longest run of consecutive values strictly greater than 0.
 
